@@ -60,4 +60,4 @@ FROM
 5. Our data indicates that August is the most common month for students to initiate a career track, a trend that aligns closely with the start of the academic year for many institutions. However, there is a notable decline in completion rates in September, the subsequent month. To address this, I propose implementing a multi-month promotional campaign specifically designed to enhance retention among students who enroll in August. This strategic initiative could significantly improve both student retention and overall completion percentages.
 
 ## Data Source
-[Project File] (https://learn.365datascience.com/projects/career-track-analysis-with-sql-and-tableau/)
+[Project File](https://learn.365datascience.com/projects/career-track-analysis-with-sql-and-tableau/)
